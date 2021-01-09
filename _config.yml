@@ -29,31 +29,31 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+# disqus:
+#   shortname: mydisqus # enter this from your disqus account
+#   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+# facebook: myfacebook
 twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: AxyMK1
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: comingSoon@gmail.com
 
 authors:
-  ak:
+  akshayKavade:
     name: Akshay Kavade
     bio: Coming soon...
     external-image: false
@@ -93,13 +93,13 @@ read-time: true
 show-tags: true
 
 # related posts inside a post?
-related: true
+# related: true
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+# show-author: true
 
 # do you want some animations?
 animation: true
