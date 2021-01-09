@@ -1,15 +1,15 @@
 ---
-title: "Hello World"
+title: "Hello World!"
 layout: post
 date: 2021-01-09 19:00
-# image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - blog
-- beginning
 category: blog
 author: akshayKavade
 description: First post
 ---
 
-## Coming Soon
+Hello World! 
+This is my first blog post. I will be occasionally posting articles on varied topics of my interests. \
+See ya in the next one.
